@@ -6,6 +6,7 @@
     public enum DatabaseType
     {
         Mssql,
-        Sqlite
+        Sqlite,
+        MySql
     }
 }
